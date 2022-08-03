@@ -1,0 +1,5 @@
+C:\Users\User\Desktop\Talpiot\projects\chessGame\chessGame\obj\x86\Debug\chessGame.csprojResolveAssemblyReference.cache
+C:\Users\User\Desktop\Talpiot\projects\chessGame\chessGame\bin\Debug\chessGame.exe
+C:\Users\User\Desktop\Talpiot\projects\chessGame\chessGame\bin\Debug\chessGame.pdb
+C:\Users\User\Desktop\Talpiot\projects\chessGame\chessGame\obj\x86\Debug\chessGame.exe
+C:\Users\User\Desktop\Talpiot\projects\chessGame\chessGame\obj\x86\Debug\chessGame.pdb

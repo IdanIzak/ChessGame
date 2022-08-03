@@ -1,0 +1,4 @@
+C:\Users\User\Desktop\Talpiot\projects\chessGame\chessGame\bin\Release\chessGame.exe
+C:\Users\User\Desktop\Talpiot\projects\chessGame\chessGame\bin\Release\chessGame.pdb
+C:\Users\User\Desktop\Talpiot\projects\chessGame\chessGame\obj\x86\Release\chessGame.exe
+C:\Users\User\Desktop\Talpiot\projects\chessGame\chessGame\obj\x86\Release\chessGame.pdb
